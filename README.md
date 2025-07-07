@@ -18,8 +18,7 @@
       padding: 1rem 2rem;
       display: flex;
       justify-content: space-between;
-      align-items: center;
-    }
+      align-items: center;}
 
     .logo {
       font-size: 1.8rem;
